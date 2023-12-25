@@ -1,0 +1,6 @@
+[submodule "coursehub-docs"]
+	path = coursehub-docs
+	url = https://github.com/Application-Not-Responding/coursehub-docs.git
+[submodule "UserServicePrototype"]
+	path = UserServicePrototype
+	url = https://github.com/Application-Not-Responding/CourseHub-UserService.git
